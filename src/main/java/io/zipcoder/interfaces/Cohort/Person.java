@@ -10,6 +10,10 @@ public class Person {
         id = 0;
         name = "";
     }
+    public Person(long id, String name){
+        this.id = id;
+        this.name = name;
+    }
 
     public Person(long id) {
         this.id = id;

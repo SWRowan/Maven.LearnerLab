@@ -1,4 +1,4 @@
-package io.zipcoder.interfaces.PeopleTests;
+package io.zipcoder.interfaces.Cohort;
 
 import io.zipcoder.interfaces.Cohort.Instructor;
 import io.zipcoder.interfaces.Cohort.Person;
